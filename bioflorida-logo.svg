@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 80" role="img" aria-label="BioFlorida">
+  <defs>
+    <style>
+      .bf-word { font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif; font-weight: 700; letter-spacing: -0.02em; }
+      .bf-bio { fill: #0A2E5C; }
+      .bf-florida { fill: #0A2E5C; }
+      .bf-leaf { fill: #00A651; }
+      .bf-rule { fill: #0A2E5C; }
+    </style>
+  </defs>
+  <g>
+    <path class="bf-leaf" d="M14 52 C 14 36, 26 26, 42 24 C 38 34, 34 42, 28 50 C 24 55, 19 55, 14 52 Z"/>
+    <circle class="bf-leaf" cx="34" cy="18" r="3.5"/>
+  </g>
+  <text class="bf-word" x="60" y="52" font-size="34">
+    <tspan class="bf-bio">bio</tspan><tspan class="bf-florida">florida</tspan>
+  </text>
+  <rect class="bf-rule" x="60" y="60" width="226" height="2" opacity="0.18"/>
+  <text x="60" y="74" font-family="'Open Sans', 'Helvetica Neue', Arial, sans-serif" font-size="8.5" letter-spacing="0.14em" fill="#0A2E5C" opacity="0.7">THE VOICE OF FLORIDA'S LIFE SCIENCES INDUSTRY</text>
+</svg>
